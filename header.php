@@ -9,7 +9,7 @@
 <head>
   <meta charset="utf-8" />
 <link rel="shortcut icon" href="http://wbi.vtekno.com/sites/all/themes/gwu_marketing/favicon.ico" type="image/vnd.microsoft.icon" />
-<meta name="description" content="GW is making history through our academics, research, service, more than 275,000 prominent alumni and our 10 schools &amp; colleges. We offer comprehensive programs of undergraduate and graduate liberal arts study as well as degree programs in medicine, law, engineering, education, business, arts, international affairs, public affairs, nursing, public policy." />
+<meta name="description" content="WBI is making history through our academics, research, service, more than 275,000 prominent alumni and our 10 schools &amp; colleges. We offer comprehensive programs of undergraduate and graduate liberal arts study as well as degree programs in medicine, law, engineering, education, business, arts, international affairs, public affairs, nursing, public policy." />
 <meta name="keywords" content="George washington university, gwu, gw, gw university, george washington, dc universities, dc colleges, education, higher education" />
 <meta name="robots" content="follow, index" />
 <link rel="image_src" href="http://www.gwu.edu/sites/www.gwu.edu/files/image/gw-primary_90x90.jpg" />
@@ -72,7 +72,7 @@
       <li class="util-item util-item-left"><a href="https://students.gwu.edu/?utm_source=utilitynav&amp;utm_medium=audience-students&amp;utm_campaign=gwhomepage-utility" target="_blank">Students</a></li><li class="util-item util-item-left"><a href="http://wbi.vtekno.com/faculty-staff">Faculty &amp; Staff</a></li><li class="util-item util-item-left"><a href="https://alumni.gwu.edu/?utm_source=utilitynav&amp;utm_medium=audience-alumni&amp;utm_campaign=gwhomepage-utility" target="_blank">Alumni</a></li>    </ul>
     <ul id="util-r" class="right-links">
       <li class="util-item util-item-right"><a href="http://mail.wbi.ac.id">Email</a></li>
-	  <li class="util-item util-item-right"><a href="" target="_blank">GWeb</a></li>
+	  <li class="util-item util-item-right"><a href="" target="_blank">WBIeb</a></li>
 	  <li class="util-item util-item-right"><a href="" target="_blank">Blackboard</a></li>
 	  <li class="util-item util-item-right"><a href="" target="_blank">Directory</a></li>
 	  <li class="util-item util-item-right"><a href="" target="_blank">Give</a></li>
@@ -85,10 +85,8 @@
 	<div class="field field-name-field-logo field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="assets/img/logo.png" width="100" height="75" alt="Wilmar Bisnis Indonesia logo" /></div></div></div></a>
   </div>
     <div class="call-to-action">
-    <!--<a id="header-call-to-action" class="cap-button" href="http://wbi.vtekno.com/admissions-aid" title="Apply" target="_self">Apply</a>  </div>
-  --><p class="rtecenter">
-												<span class="liberator-statement-liberatorheavy-72">change the course of history.</span>
-											</p>
+    <a id="header-call-to-action" class="cap-button" href="http://wbi.vtekno.com/admissions-aid" title="Apply" target="_self">Apply</a>  </div>
+	
   </div>
   </div>
     </div>
@@ -116,7 +114,7 @@
         <form action="/" method="post" id="google-appliance-block-form" accept-charset="UTF-8"><div>
   <div class="form-item form-type-textfield form-item-search-keys">
   <label class="element-invisible" for="edit-search-keys">Enter the terms you wish to search for. </label>
- <input title="Search GW" type="text" id="edit-search-keys" name="search_keys" value="" size="15" maxlength="128" class="form-text" />
+ <input title="Search WBI" type="text" id="edit-search-keys" name="search_keys" value="" size="15" maxlength="128" class="form-text" />
 </div>
 <div title="Submit Search" class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-FAMa6I59RTd26qa7R0NiVNVnJ4s-EYFuu9xE1791sjY" />
 <input type="hidden" name="form_id" value="google_appliance_block_form" />

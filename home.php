@@ -9,12 +9,12 @@
 				<div class="fullHeroWrapper">
 					<div class="panel-pane pane-custom pane-1" >
 						<div class="video-container fullW">
-						<!--
+					
 						<iframe allowfullscreen="" class="background-video" frameborder="0" height="394" mozallowfullscreen="" 
 						src="http://www.youtube.com/embed/zfkcnMo9Gck/?mute=1&autoplay=1&showinfo=0&controls=0&loop=1&playlist=zfkcnMo9Gck" 
 						title="GW is a community of leaders, innovators, explorers, dreamers, teammates, cultivators, heroes, and champions"
 						webkitallowfullscreen="" width="700"></iframe>
-						-->
+					
 						</div>
 						<div class="smallW">
 							<div class="css-slideshow">
@@ -188,58 +188,73 @@ margin-bottom: 100px;
 											<p class="rtecenter">
 												<br />
 												<br />
-												<span class="hoefler-statement-text-700-italic-36">No matter what subjects we pursue, we&rsquo;ve all come here to</span>
+												<span class="hoefler-statement-text-700-italic-36">Professionalism, 
+Integrity, 
+Innovation, 
+Awareness, 
+Teamwork</span>
 											</p>
 											<p class="rtecenter">
-												<span class="liberator-statement-liberatorheavy-72">change the course of history.</span>
+												<span class="liberator-statement-liberatorheavy-72">Nurturing Entrepreneurs<br>Empowering Nations</span>
 											</p>
 										</div>
 									</div>
 								</div>
 							</div>
 						</div>
+						
 						<div class="panel-pane pane-node" >
-							<div class="general-content-no-sidebars">
-								<div class="general-content-grid-no-image">
-									<div id="general-content-primary">
-										<hr class="homepageHR" />
-										<h2 class="homepageH2">BERITA DAN PENGUMUMAN</h2>
-										<div class="container" type="tpl-left-aligned-image-with-non-wrapping-text">
-											<div class="row">
-												<div class="col-md-12">
-													<article>
-														<header class="lai-one">
-															<h2></h2>
-														</header>
-														<div class="lai-no">
-															<div class="lai-img-c lai-two">
-																<figure>
-																	<div class="media">
-																		<p class="col-image">
-																			<img alt="" src="assets/img/fest.jpg" style="width: 100%;" />
-																		</p>
-																		
-																	</div>
-																	
-																</figure>
-															</div>
-															<div class="lai-copy lai-three">
-																<h3>Classroom Meets Career Goals</h3>
-																<p>Students Lillianna Byington, BA &rsquo;18, and Robin Eberhardt, BA &rsquo;17 saw their hard work pay off when a classroom assignment led to their story being published on the front page of The Washington Post. Tasked with investigating federal money forfeited back to the Department of Housing and Urban Development, they not only made discoveries regarding DC&rsquo;s housing department, but also cemented their commitment to journalism. Lillianna and Robin found their story at GW. Apply today to find yours.</p>
-																
-															</div>
-														</div>
-													</article>
-												</div>
-											</div>
-											<!-- endAfterNext: tpl-left-aligned-image-with-non-wrapping-text -->
-										</div>
-										<style type="text/css">.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width:100%;width: 650px; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
-</style>
-									</div>
-								</div>
-							</div>
-						</div>
+        
+
+<div class="general-content-no-sidebars">
+  <div class="general-content-grid-no-image">
+    <div id="general-content-primary">
+                        <hr class="homepageHR" />
+<h2 class="homepageH2">STUDENT LIFE AT WBI</h2>
+
+<div class="container" type="tpl-left-aligned-image-with-non-wrapping-text">
+<div class="row">
+<div class="col-md-12">
+<article>
+<header class="lai-one">
+<h2></h2>
+</header>
+
+<div class="lai-no">
+<div class="lai-img-c lai-two">
+<figure>
+<div class="media">
+<p class="col-image"><img alt="GW Students Robin Eberhardt and Lillianna Byington" src="assets/img/GuangZhou.jpg" style="width: 100%;" /></p>
+
+<p>&nbsp;</p>
+</div>
+
+<figcaption class="t-img-caption">
+<p>&nbsp;</p>
+</figcaption>
+</figure>
+</div>
+
+<div class="lai-copy lai-three">
+<h3>Students Exchange</h3>
+
+<p>Wilmar Bisnis Indonesia proudly welcome students exchange from 4 international campus of GuangZhou, China.</p>
+
+
+</div>
+</div>
+</article>
+</div>
+</div>
+<!-- endAfterNext: tpl-left-aligned-image-with-non-wrapping-text --></div>
+    </div>
+  </div>
+  </div>
+  
+  </div>
+
+
+						
 						<div class="panel-pane pane-node" >
 							<div class="general-content-no-sidebars">
 								<div class="general-content-grid-no-image">
@@ -390,20 +405,24 @@ Columbian College of Arts &amp; Sciences
 					<div class="panel-pane pane-custom pane-2" >
 						<div class="segment" style="margin-bottom:20px;">
 							<div class="photo-tile image1">&nbsp;</div>
-							<p class="caption">&quot;And following tradition in my #bollywoodcinema course, my students strike a pose in classic Shahrukh Khan style, on the #lastday #lastclass I will miss these #fabulousstudents&quot; - @gwenglishprof</p>
+							<p class="caption">&quot; #wbigoestoschool @smkn7medan
+
+Selamat buat siswa/i yang mendapat beasiswa pendidikan di Politeknik WBI, sampai bertemu di Kampus Politeknik WBI.
+
+#politeknikwbi #smkn7medan</p>
 							<div class="photo-tile image2">&nbsp;</div>
-							<p class="caption">&quot;Made it to the capital for school #gwu #Washingtondc&quot; - @alaniib</p>
+							<p class="caption">&quot;</p>
 							<div class="photo-tile image3">&nbsp;</div>
-							<p class="caption">&quot;Winter 2018 - @nickel_anddime&quot;</p>
+							<p class="caption">&quot;&quot;</p>
 							<div class="photo-tile image4">&nbsp;</div>
-							<p class="caption">&quot;After a lovely vacation, I am back!!&quot; - @alejandrak.leon&#39;</p>
+							<p class="caption">&quot;&#39;</p>
 							<div class="second_row">
 								<div class="photo-tile image5">&nbsp;</div>
-								<p class="caption">Welcome, President LeBlanc!</p>
+								<p class="caption"></p>
 								<div class="photo-tile image6">&nbsp;</div>
-								<p class="caption">Welcome, President LeBlanc!</p>
+								<p class="caption"></p>
 								<div class="photo-tile image7">&nbsp;</div>
-								<p class="caption">Welcome, President LeBlanc!</p>
+								<p class="caption"></p>
 								<div class="photo-tile image8">&nbsp;</div>
 								<p class="caption">Welcome, President LeBlanc!</p>
 							</div>
@@ -452,7 +471,7 @@ Columbian College of Arts &amp; Sciences
                                                                                                                                                                                                 
                                                                                                                                                                                                 
                                                                                                                                                                                                 
-                                                                                                                                                                                                .image1 {background: url("assets/img/25010635_861588830632854_7647839305238315008_n.jpg");}
+                                                                                                                                                                                                .image1 {background: url("assets/img/1.jpg");}
                                                                                                                                                                                                 .image2 {background: url("assets/img/smartrip.jpg");}
                                                                                                                                                                                                 .image4 {background: url("assets/img/26355558_590528327951968_5898212908956909568_n.jpg");}
                                                                                                                                                                                                 .image6 {background: url("assets/img/WinterBuff%26Blue.jpg");}
@@ -463,7 +482,7 @@ Columbian College of Arts &amp; Sciences
                                                                                                                                                                                                 
                                                                                                                                                                                                 
                                                                                                                                                                                                 
-                                                                                                                                                                                                .image1::before {content: '"And following tradition in my #bollywoodcinema \A course, my students strike a pose in classic \A Shahrukh Khan style, on the #lastday \A #lastclass I will miss these \A #fabulousstudents" - @gwenglishprof';white-space: pre;}
+                                                                                                                                                                                                .image1::before {content: '"#wbigoestoschool @smkn7medan \A Selamat buat siswa/i \A yang mendapat beasiswa pendidikan di Politeknik WBI \A sampai bertemu di Kampus Politeknik WBI. \A #politeknikwbi #smkn7medan';white-space: pre;}
                                                                                                                                                                                                 .image2::before {content:'"Made it to the capital for school #gwu #Washingtondc" - @alaniib';}
                                                                                                                                                                                                 .image4::before {content:'"After a lovely vacation, I am back!!" - @alejandrak.leon';}
                                                                                                                                                                                                 .image6::before {content:'"You bet we’re loyal to #GWU!" - @lizzyog';}
@@ -530,7 +549,7 @@ Columbian College of Arts &amp; Sciences
                                                                                                                                                                                                 	display: none;
                                                                                                                                                                                                 }
                                                                                                                                                                                                 
-                                                                                                                                                                                                .image1 {background: url("assets/img/25010635_861588830632854_7647839305238315008_n.jpg");}
+                                                                                                                                                                                                .image1 {background: url("assets/img/1.jpg");}
                                                                                                                                                                                                 .image2 {background: url("assets/img/smartrip.jpg");}
                                                                                                                                                                                                 .image3 {background: url("assets/img/GW%20Students%20Mall.JPG");}
                                                                                                                                                                                                 .image4 {background: url("assets/img/26355558_590528327951968_5898212908956909568_n.jpg");}");}
@@ -1034,7 +1053,7 @@ hr.event-detail-sidebar-rule {
   margin-right: calc(-50vw + 50%);
   padding-top:100px;
   padding-bottom:100px;
-  background:url('assets/img/Maeve_McCool_UP_2018_WLA-24456_1080x608.jpg');
+  background:url('assets/img/head.jpg');
   background-repeat:no-repeat;
   background-size:cover;
 }
@@ -1166,7 +1185,7 @@ line-height: 1.4em;
   margin-bottom:-10px;
   display:block;
   content:" ";
-  background: url('assets/img/Maeve_McCool_UP_2018_WLA-24456_1080x608.jpg');
+  background: url('assets/img/head.jpg');
   background-size:cover;
   margin-left:calc(-49vw + 49%);
   margin-right:calc(-50vw + 50%);
