@@ -1,5 +1,3 @@
-
-
 <div id="page-fat" class="clearfix">
 	<div id="main" class="clearfix">
 		<div id="content" class="column" role="main">
@@ -10,8 +8,14 @@
 			<div id="block-system-main" class="block block-system first last odd count-1 count-1">
 				<div class="fullHeroWrapper">
 					<div class="panel-pane pane-custom pane-1" >
-						<!--<div class="video-container fullW"><iframe allowfullscreen="" class="background-video" frameborder="0" height="394" mozallowfullscreen="" src="https://player.vimeo.com/video/180725975?background=1" title="GW is a community of leaders, innovators, explorers, dreamers, teammates, cultivators, heroes, and champions"
-    webkitallowfullscreen="" width="700"></iframe></div>-->
+						<div class="video-container fullW">
+						<!--
+						<iframe allowfullscreen="" class="background-video" frameborder="0" height="394" mozallowfullscreen="" 
+						src="http://www.youtube.com/embed/zfkcnMo9Gck/?mute=1&autoplay=1&showinfo=0&controls=0&loop=1&playlist=zfkcnMo9Gck" 
+						title="GW is a community of leaders, innovators, explorers, dreamers, teammates, cultivators, heroes, and champions"
+						webkitallowfullscreen="" width="700"></iframe>
+						-->
+						</div>
 						<div class="smallW">
 							<div class="css-slideshow">
 								<figure>
@@ -40,7 +44,7 @@
 								</figure>
 							</div>
 							<style type="text/css">
-    .css-slideshow {display:none;}
+						.css-slideshow {display:none;}
                         .video-container{
                           position:relative;
                           padding-bottom:56.25%;
@@ -568,7 +572,7 @@ Columbian College of Arts &amp; Sciences
 					<div class="panel-pane pane-custom pane-4" >
 						<p style="display:none;">&nbsp;</p>
 						<style type="text/css">
-    .homepageHR {background-color: #033C5A;margin-left:calc(-50vw + 50%);margin-right:calc(-50vw + 50%);margin-top:50px;border: 1px solid #033C5A}
+    .homepageHR {background-color: #033C5A;margin-left:calc(-49vw + 49%);margin-right:calc(-50vw + 50%);margin-top:50px;border: 1px solid #033C5A}
         .homepageH2 {border-top:5px solid #033C5A;margin-top:-3px;color:#033C5A;display:inline-block;padding-top:5px;margin-bottom:50px; font-size: 1.3em;     font-family: 'Avenir Next LT W04 Bold'; text-rendering: optimizeLegibility;}
 </style>
 					</div>
@@ -1056,7 +1060,7 @@ hr.event-detail-sidebar-rule {
 						<p style="display:none;"></p>
 						<style type="text/css">/* Main styles */
 .gwTodayContainer {
-  margin-left:calc(-50vw + 50%);
+  margin-left:calc(-49vw + 49%);
   margin-right: calc(-50vw + 50%);
   padding-top:100px;
   padding-bottom:100px;
@@ -1194,7 +1198,7 @@ line-height: 1.4em;
   content:" ";
   background: url('assets/img/Maeve_McCool_UP_2018_WLA-24456_1080x608.jpg');
   background-size:cover;
-  margin-left:calc(-50vw + 50%);
+  margin-left:calc(-49vw + 49%);
   margin-right:calc(-50vw + 50%);
   height:250px;
 }
