@@ -58,7 +58,7 @@
                     <a rel="home" href="http://www.gwu.edu/"><img class="ff-logo-img" typeof="foaf:Image" src="assets/img/gwu-wordmark-logo.png" alt="GW logo"></a>
                 </div>
                 <div class="ff-address" vocab="http://schema.org/" typeof="EducationalOrganization">
-                    <span property="name">The George Washington University</span>
+                    <span property="name">Wilmar Bisnis Indonesia</span>
                     <br>
                     <div property="address" typeof="PostalAddress">
                         <span property="streetAddress">2121 Eye Street, NW</span>

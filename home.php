@@ -20,7 +20,7 @@
 
 <div class="smallW">
 <div class="css-slideshow">
-    <figure><img alt="The George Washington University is a community of leaders, strivers, innovators, explorers, teammates and cultivators" class="alignnone size-full wp-image-179" src="assets/img/Cultivators.jpg" /></figure>
+    <figure><img alt="Wilmar Bisnis Indonesia is a community of leaders, strivers, innovators, explorers, teammates and cultivators" class="alignnone size-full wp-image-179" src="assets/img/Cultivators.jpg" /></figure>
 
     <figure><img alt="graphic 3" aria-hidden="true" class="alignnone size-large wp-image-178" src="assets/img/Teammates.jpg" /></figure>
 
@@ -326,7 +326,7 @@ margin-bottom: 100px;
 <div class="news_section_caption">
 <h3><a href="https://gwtoday.gwu.edu/grad2grad-program-offers-seniors-discount-gw-graduate-programs-0?utm_source=community_stories&amp;utm_medium=2nd_row_right&amp;utm_campaign=gwhomepage-flex-space&amp;utm_content=grad2grad" target="_blank">Grad2Grad Program Offers Discount on Graduate Programs</a></h3>
 
-<p>The George Washington University will continue its Grad2Grad Program for another year, offering a 10 percent tuition reduction to 2018 GW graduates who enroll in an eligible graduate program.</p>
+<p>Wilmar Bisnis Indonesia will continue its Grad2Grad Program for another year, offering a 10 percent tuition reduction to 2018 GW graduates who enroll in an eligible graduate program.</p>
 </div>
 </div>
 </div>
