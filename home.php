@@ -1,43 +1,45 @@
 
+
 <div id="page-fat" class="clearfix">
-    <div id="main" class="clearfix">
-        <div id="content" class="column" role="main">
-                        <div class="gw-alert">
-                <div>
-
-
-</div>
-            </div>
-                        <a id="main-content"></a>
-                                    <div id="block-system-main" class="block block-system first last odd count-1 count-1">
-        <div class="fullHeroWrapper">
-
-<div class="panel-pane pane-custom pane-1" >
-<!--<div class="video-container fullW">
-    <iframe allowfullscreen="" class="background-video" frameborder="0" height="394" mozallowfullscreen="" src="https://player.vimeo.com/video/180725975?background=1" title="GW is a community of leaders, innovators, explorers, dreamers, teammates, cultivators, heroes, and champions"
-    webkitallowfullscreen="" width="700"></iframe>
-</div>-->
-
-<div class="smallW">
-<div class="css-slideshow">
-    <figure><img alt="Wilmar Bisnis Indonesia is a community of leaders, strivers, innovators, explorers, teammates and cultivators" class="alignnone size-full wp-image-179" src="assets/img/Cultivators.jpg" /></figure>
-
-    <figure><img alt="graphic 3" aria-hidden="true" class="alignnone size-large wp-image-178" src="assets/img/Teammates.jpg" /></figure>
-
-    <figure><img alt="graphic 3" aria-hidden="true" class="alignnone size-large wp-image-178" src="assets/img/Explorers.jpg" /></figure>
-
-    <figure><img alt="graphic 3" aria-hidden="true" class="alignnone size-large wp-image-178" src="assets/img/Innovators.jpg" /></figure>
-
-    <figure><img alt="graphic 3" aria-hidden="true" class="alignnone size-large wp-image-178" src="assets/img/strivers.jpg" /></figure>
-
-    <figure><img alt="graphic 3" aria-hidden="true" class="alignnone size-large wp-image-178" src="assets/img/Leaders.jpg" /></figure>
-
-    <figure><img alt="graphic 3" aria-hidden="true" class="alignnone size-large wp-image-178" src="assets/img/Is-a-community-of.jpg" /></figure>
-
-    <figure><img alt="graphic 3" aria-hidden="true" class="alignnone size-large wp-image-178" src="assets/img/The-George-Washington-University.jpg" /></figure>
-</div>
-
-<style type="text/css">
+	<div id="main" class="clearfix">
+		<div id="content" class="column" role="main">
+			<div class="gw-alert">
+				<div></div>
+			</div>
+			<a id="main-content"></a>
+			<div id="block-system-main" class="block block-system first last odd count-1 count-1">
+				<div class="fullHeroWrapper">
+					<div class="panel-pane pane-custom pane-1" >
+						<!--<div class="video-container fullW"><iframe allowfullscreen="" class="background-video" frameborder="0" height="394" mozallowfullscreen="" src="https://player.vimeo.com/video/180725975?background=1" title="GW is a community of leaders, innovators, explorers, dreamers, teammates, cultivators, heroes, and champions"
+    webkitallowfullscreen="" width="700"></iframe></div>-->
+						<div class="smallW">
+							<div class="css-slideshow">
+								<figure>
+									<img alt="Wilmar Bisnis Indonesia is a community of leaders, strivers, innovators, explorers, teammates and cultivators" class="alignnone size-full wp-image-179" src="assets/img/Cultivators.jpg" />
+								</figure>
+								<figure>
+									<img alt="graphic 3" aria-hidden="true" class="alignnone size-large wp-image-178" src="assets/img/Teammates.jpg" />
+								</figure>
+								<figure>
+									<img alt="graphic 3" aria-hidden="true" class="alignnone size-large wp-image-178" src="assets/img/Explorers.jpg" />
+								</figure>
+								<figure>
+									<img alt="graphic 3" aria-hidden="true" class="alignnone size-large wp-image-178" src="assets/img/Innovators.jpg" />
+								</figure>
+								<figure>
+									<img alt="graphic 3" aria-hidden="true" class="alignnone size-large wp-image-178" src="assets/img/strivers.jpg" />
+								</figure>
+								<figure>
+									<img alt="graphic 3" aria-hidden="true" class="alignnone size-large wp-image-178" src="assets/img/Leaders.jpg" />
+								</figure>
+								<figure>
+									<img alt="graphic 3" aria-hidden="true" class="alignnone size-large wp-image-178" src="assets/img/Is-a-community-of.jpg" />
+								</figure>
+								<figure>
+									<img alt="graphic 3" aria-hidden="true" class="alignnone size-large wp-image-178" src="assets/img/The-George-Washington-University.jpg" />
+								</figure>
+							</div>
+							<style type="text/css">
     .css-slideshow {display:none;}
                         .video-container{
                           position:relative;
@@ -129,17 +131,15 @@
                           }}
 
                         }
-</style>  
-  </div>
-</div><div class="mainWrapper">
-
-<div class="panel-pane pane-node" >
-        
-
-<div class="general-content-no-sidebars">
-  <div class="general-content-grid-no-image">
-    <div id="general-content-primary">
-                        <style type="text/css">.holder {
+</style>
+						</div>
+					</div>
+					<div class="mainWrapper">
+						<div class="panel-pane pane-node" >
+							<div class="general-content-no-sidebars">
+								<div class="general-content-grid-no-image">
+									<div id="general-content-primary">
+										<style type="text/css">.holder {
 margin-bottom: 375px;
 }
 
@@ -180,263 +180,261 @@ margin-bottom: 100px;
 }
 }
 </style>
-<div aria-level="1" role="heading">
-<p class="rtecenter"><br />
-<br />
-<span class="hoefler-statement-text-700-italic-36">No matter what subjects we pursue, we&rsquo;ve all come here to</span></p>
-
-<p class="rtecenter"><span class="liberator-statement-liberatorheavy-72">change the course of history.</span></p>
-</div>
-
-<div class="holder">
-<div id="cf"><a href="https://programs.gwu.edu/" target="_blank"><img alt="find a program" aria-hidden="true" class="bottom" src="https://www2.gwu.edu/~newsctr/main_site_assets/homepage_buttons/352x340_Program_Hover_v2.png" /> <img alt="find a program" class="top" src="https://www2.gwu.edu/~newsctr/main_site_assets/homepage_buttons/352x340-Program.png" /> </a></div>
-
-<div id="cf"><a href="node/43"><img alt="find a program" aria-hidden="true" class="bottom" src="https://www2.gwu.edu/~newsctr/main_site_assets/homepage_buttons/352x340_Visit_hover.png" /> <img alt="Visit campus" class="top" src="https://www2.gwu.edu/~newsctr/main_site_assets/homepage_buttons/352x340-Visit.png" /> </a></div>
-
-<div id="cf"><a href="node/15"><img alt="Apply" aria-hidden="true" class="bottom" src="https://www2.gwu.edu/~newsctr/main_site_assets/homepage_buttons/352x340_Apply_Hover_v2.png" /> <img alt="apply" class="top" src="https://www2.gwu.edu/~newsctr/main_site_assets/homepage_buttons/352x340-Apply_v2.png" /> </a></div>
-</div>
-    </div>
-  </div>
-  </div>
-  
-  </div>
-
-
-<div class="panel-pane pane-node" >
-        
-
-<div class="general-content-no-sidebars">
-  <div class="general-content-grid-no-image">
-    <div id="general-content-primary">
-                        <hr class="homepageHR" />
-<h2 class="homepageH2">STUDENT LIFE AT GW</h2>
-
-<div class="container" type="tpl-left-aligned-image-with-non-wrapping-text">
-<div class="row">
-<div class="col-md-12">
-<article>
-<header class="lai-one">
-<h2></h2>
-</header>
-
-<div class="lai-no">
-<div class="lai-img-c lai-two">
-<figure>
-<div class="media">
-<p class="col-image"><img alt="GW Students Robin Eberhardt and Lillianna Byington" src="assets/img/Robin-and-Lillianna-1080x720.jpg" style="width: 100%;" /></p>
-
-<p>&nbsp;</p>
-</div>
-
-<figcaption class="t-img-caption">
-<p>&nbsp;</p>
-</figcaption>
-</figure>
-</div>
-
-<div class="lai-copy lai-three">
-<h3>Classroom Meets Career Goals</h3>
-
-<p>Students Lillianna Byington, BA &rsquo;18, and Robin Eberhardt, BA &rsquo;17 saw their hard work pay off when a classroom assignment led to their story being published on the front page of The Washington Post. Tasked with investigating federal money forfeited back to the Department of Housing and Urban Development, they not only made discoveries regarding DC&rsquo;s housing department, but also cemented their commitment to journalism. Lillianna and Robin found their story at GW. Apply today to find yours.</p>
-
-<p class="rtecenter"><span class="reg-button lightblue"><a href="/admissions-aid">Find Your GW Story</a></span><a href="/academics"><span class="reg-button lightblue"> </span></a></p>
-
-<p>&nbsp;</p>
-</div>
-</div>
-</article>
-</div>
-</div>
-<!-- endAfterNext: tpl-left-aligned-image-with-non-wrapping-text --></div>
-<style type="text/css">.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width:100%;width: 650px; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
+										<div aria-level="1" role="heading">
+											<p class="rtecenter">
+												<br />
+												<br />
+												<span class="hoefler-statement-text-700-italic-36">No matter what subjects we pursue, we&rsquo;ve all come here to</span>
+											</p>
+											<p class="rtecenter">
+												<span class="liberator-statement-liberatorheavy-72">change the course of history.</span>
+											</p>
+										</div>
+										<div class="holder">
+											<div id="cf">
+												<a href="https://programs.gwu.edu/" target="_blank">
+													<img alt="find a program" aria-hidden="true" class="bottom" src="https://www2.gwu.edu/~newsctr/main_site_assets/homepage_buttons/352x340_Program_Hover_v2.png" />
+													<img alt="find a program" class="top" src="https://www2.gwu.edu/~newsctr/main_site_assets/homepage_buttons/352x340-Program.png" />
+												</a>
+											</div>
+											<div id="cf">
+												<a href="node/43">
+													<img alt="find a program" aria-hidden="true" class="bottom" src="https://www2.gwu.edu/~newsctr/main_site_assets/homepage_buttons/352x340_Visit_hover.png" />
+													<img alt="Visit campus" class="top" src="https://www2.gwu.edu/~newsctr/main_site_assets/homepage_buttons/352x340-Visit.png" />
+												</a>
+											</div>
+											<div id="cf">
+												<a href="node/15">
+													<img alt="Apply" aria-hidden="true" class="bottom" src="https://www2.gwu.edu/~newsctr/main_site_assets/homepage_buttons/352x340_Apply_Hover_v2.png" />
+													<img alt="apply" class="top" src="https://www2.gwu.edu/~newsctr/main_site_assets/homepage_buttons/352x340-Apply_v2.png" />
+												</a>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="panel-pane pane-node" >
+							<div class="general-content-no-sidebars">
+								<div class="general-content-grid-no-image">
+									<div id="general-content-primary">
+										<hr class="homepageHR" />
+										<h2 class="homepageH2">STUDENT LIFE AT GW</h2>
+										<div class="container" type="tpl-left-aligned-image-with-non-wrapping-text">
+											<div class="row">
+												<div class="col-md-12">
+													<article>
+														<header class="lai-one">
+															<h2></h2>
+														</header>
+														<div class="lai-no">
+															<div class="lai-img-c lai-two">
+																<figure>
+																	<div class="media">
+																		<p class="col-image">
+																			<img alt="GW Students Robin Eberhardt and Lillianna Byington" src="assets/img/Robin-and-Lillianna-1080x720.jpg" style="width: 100%;" />
+																		</p>
+																		<p>&nbsp;</p>
+																	</div>
+																	<figcaption class="t-img-caption">
+																		<p>&nbsp;</p>
+																	</figcaption>
+																</figure>
+															</div>
+															<div class="lai-copy lai-three">
+																<h3>Classroom Meets Career Goals</h3>
+																<p>Students Lillianna Byington, BA &rsquo;18, and Robin Eberhardt, BA &rsquo;17 saw their hard work pay off when a classroom assignment led to their story being published on the front page of The Washington Post. Tasked with investigating federal money forfeited back to the Department of Housing and Urban Development, they not only made discoveries regarding DC&rsquo;s housing department, but also cemented their commitment to journalism. Lillianna and Robin found their story at GW. Apply today to find yours.</p>
+																<p class="rtecenter">
+																	<span class="reg-button lightblue">
+																		<a href="/admissions-aid">Find Your GW Story</a>
+																	</span>
+																	<a href="/academics">
+																		<span class="reg-button lightblue"></span>
+																	</a>
+																</p>
+																<p>&nbsp;</p>
+															</div>
+														</div>
+													</article>
+												</div>
+											</div>
+											<!-- endAfterNext: tpl-left-aligned-image-with-non-wrapping-text -->
+										</div>
+										<style type="text/css">.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width:100%;width: 650px; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
 </style>
-    </div>
-  </div>
-  </div>
-  
-  </div>
-
-
-<div class="panel-pane pane-node" >
-        
-
-<div class="general-content-no-sidebars">
-  <div class="general-content-grid-no-image">
-    <div id="general-content-primary">
-                        <hr class="homepageHR" />
-<h2 class="homepageH2">NEWS AND EVENTS</h2>
-
-<p>&nbsp;</p>
-
-<div class="gwtheader_left">
-    <a href="https://gwtoday.gwu.edu?utm_source=gwtoday-header&amp;utm_medium=gwtoday-logo&amp;utm_campaign=gwhomepage-gwtoday" target="_blank"><img alt="GW Today, GW's official online news source" src="assets/img/534x150-GWToday.jpg" style="max-width: 350px; margin-left: -11px;" /></a>
-</div>
-
-<div class="gwTodayContainer textLeft">
-    <div class="gwTodayWrapper" style="overflow-y:hidden;">
-        <ul class="gwTodayHomepage">
-            <li><a href="https://gwtoday.gwu.edu/gw-undergraduate-researchers-doing-%E2%80%98remarkable-work%E2%80%99?utm_source=GW%20Today%20Section&amp;utm_medium=GWToday_MainStory%202&amp;utm_campaign=gwhomepage-gwtoday" target="_blank">GW Undergraduate Researchers Doing ‘Remarkable Work’</a>
-
-                <ul>
-                    <li><strong>February 5, 2018</strong></li>
-                    <li>Research with faculty mentors has shaped the undergraduate experience and future career paths for many GW students.</li>
-                </ul>
-            </li>
-            <li class="secondary"><a href="https://gwtoday.gwu.edu/political-commentator-kicks-black-heritage-celebration?utm_source=GW%20Today%20Section&amp;utm_medium=Link1&amp;utm_campaign=gwhomepage-gwtoday" target="_blank">Political Commentator Kicks off Black Heritage Celebration</a></li>
-            <li class="secondary"><a href="https://gwtoday.gwu.edu/gw-law-professor-confirmed-us-court-appeals-armed-forces?utm_source=GW%20Today%20Section&amp;utm_medium=Link2&amp;utm_campaign=gwhomepage-gwtoday" target="_blank">GW Law Professor Confirmed to U.S. Court of Appeals for the Armed Forces </a></li>
-            <li class="secondary"><a href="https://gwtoday.gwu.edu/official-transcripts-now-available-electronically?utm_medium=Link3&amp;utm_campaign=gwhomepage-gwtoday" target="_blank">Official Transcripts Now Available Electronically</a></li>
-        </ul>
-    </div>
-</div>    </div>
-  </div>
-  </div>
-  
-  </div>
-
-
-<div class="panel-pane pane-node" >
-        
-
-<div class="general-content-no-sidebars">
-  <div class="general-content-grid-no-image">
-    <div id="general-content-primary">
-                        <hr class="homepageHR" />
-<h2 class="homepageH2">STORIES FROM OUR COMMUNITY</h2>
-
-<section>
-<div class="alumni_news" id="main_news" style="width: 100%; height: auto;"><a href="http://magazine.gwu.edu/accounting-for-haste?utm_source=community_stories&amp;utm_medium=top-story&amp;utm_campaign=gwhomepage-flex-space&amp;utm_content=smitten-kitchen" target="_blank"><img alt="How one GW alum turned her small New York kitchen into a recipe for success" class="fullW" src="assets/img/ONST_1617_4_HomepageRotators_78_DebPerelman_DesktopNEW.jpg" style="width: 100%;" /> <img alt="The Best Gifts Come From Your Heart. Or At Least From a Place Very Close to it." class="smallW" jpg="" src="assets/img/ONST_1617_4_HomepageRotators_78_DebPerelman_Mobile_NEW.jpg" /></a></div>
-
-<p>&nbsp;</p>
-
-<div class="two_across_container">
-<div class="two_across_item">
-<div class="alumni_news" id="two_across_left"><a href="http://magazine.gwu.edu/precious-mettle?utm_source=community_stories&amp;utm_medium=2nd_row_left&amp;utm_campaign=gwhomepage-flex-space&amp;utm_content=elana-myers" target="_blank"><img alt="GW Alumna Elana Meyers Taylor, BS ‘06, MTA ‘11" src="assets/img/Elena_Myers_12.1.17_900x600.jpg" style="width: 100%;" /> </a>
-
-<div class="news_section_caption">
-<h3><a href="http://magazine.gwu.edu/precious-mettle?utm_source=community_stories&amp;utm_medium=2nd_row_left&amp;utm_campaign=gwhomepage-flex-space&amp;utm_content=elana-myers" target="_blank">Going for Gold</a></h3>
-
-<p>Elana Meyers Taylor, BS &lsquo;06, MTA &lsquo;11, has her sights set on gold this February. This two-time Olympic medalist and GW alumna will be competing in the 2018 Winter Olympics for women&rsquo;s bobsledding.</p>
-</div>
-</div>
-</div>
-
-<div class="two_across_item">
-<div class="student_news" id="two_across_right"><a href="https://gwtoday.gwu.edu/grad2grad-program-offers-seniors-discount-gw-graduate-programs-0?utm_source=community_stories&amp;utm_medium=2nd_row_right&amp;utm_campaign=gwhomepage-flex-space&amp;utm_content=grad2grad" target="_blank"><img alt="Grad2Grad: A special opportunity for GW seniors" src="assets/img/Grad2Grad-2_0-1_900x600.jpg" style="width: 100%;" /></a>
-
-<div class="news_section_caption">
-<h3><a href="https://gwtoday.gwu.edu/grad2grad-program-offers-seniors-discount-gw-graduate-programs-0?utm_source=community_stories&amp;utm_medium=2nd_row_right&amp;utm_campaign=gwhomepage-flex-space&amp;utm_content=grad2grad" target="_blank">Grad2Grad Program Offers Discount on Graduate Programs</a></h3>
-
-<p>Wilmar Bisnis Indonesia will continue its Grad2Grad Program for another year, offering a 10 percent tuition reduction to 2018 GW graduates who enroll in an eligible graduate program.</p>
-</div>
-</div>
-</div>
-</div>
-</section>
-<style type="text/css">.smallW{display:none;}
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="panel-pane pane-node" >
+							<div class="general-content-no-sidebars">
+								<div class="general-content-grid-no-image">
+									<div id="general-content-primary">
+										<hr class="homepageHR" />
+										<h2 class="homepageH2">NEWS AND EVENTS</h2>
+										<p>&nbsp;</p>
+										<div class="gwtheader_left">
+											<a href="https://gwtoday.gwu.edu?utm_source=gwtoday-header&amp;utm_medium=gwtoday-logo&amp;utm_campaign=gwhomepage-gwtoday" target="_blank">
+												<img alt="GW Today, GW's official online news source" src="assets/img/534x150-GWToday.jpg" style="max-width: 350px; margin-left: -11px;" />
+											</a>
+										</div>
+										<div class="gwTodayContainer textLeft">
+											<div class="gwTodayWrapper" style="overflow-y:hidden;">
+												<ul class="gwTodayHomepage">
+													<li>
+														<a href="https://gwtoday.gwu.edu/gw-undergraduate-researchers-doing-%E2%80%98remarkable-work%E2%80%99?utm_source=GW%20Today%20Section&amp;utm_medium=GWToday_MainStory%202&amp;utm_campaign=gwhomepage-gwtoday" target="_blank">GW Undergraduate Researchers Doing ‘Remarkable Work’</a>
+														<ul>
+															<li>
+																<strong>February 5, 2018</strong>
+															</li>
+															<li>Research with faculty mentors has shaped the undergraduate experience and future career paths for many GW students.</li>
+														</ul>
+													</li>
+													<li class="secondary">
+														<a href="https://gwtoday.gwu.edu/political-commentator-kicks-black-heritage-celebration?utm_source=GW%20Today%20Section&amp;utm_medium=Link1&amp;utm_campaign=gwhomepage-gwtoday" target="_blank">Political Commentator Kicks off Black Heritage Celebration</a>
+													</li>
+													<li class="secondary">
+														<a href="https://gwtoday.gwu.edu/gw-law-professor-confirmed-us-court-appeals-armed-forces?utm_source=GW%20Today%20Section&amp;utm_medium=Link2&amp;utm_campaign=gwhomepage-gwtoday" target="_blank">GW Law Professor Confirmed to U.S. Court of Appeals for the Armed Forces </a>
+													</li>
+													<li class="secondary">
+														<a href="https://gwtoday.gwu.edu/official-transcripts-now-available-electronically?utm_medium=Link3&amp;utm_campaign=gwhomepage-gwtoday" target="_blank">Official Transcripts Now Available Electronically</a>
+													</li>
+												</ul>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="panel-pane pane-node" >
+							<div class="general-content-no-sidebars">
+								<div class="general-content-grid-no-image">
+									<div id="general-content-primary">
+										<hr class="homepageHR" />
+										<h2 class="homepageH2">STORIES FROM OUR COMMUNITY</h2>
+										<section>
+											<div class="alumni_news" id="main_news" style="width: 100%; height: auto;">
+												<a href="http://magazine.gwu.edu/accounting-for-haste?utm_source=community_stories&amp;utm_medium=top-story&amp;utm_campaign=gwhomepage-flex-space&amp;utm_content=smitten-kitchen" target="_blank">
+													<img alt="How one GW alum turned her small New York kitchen into a recipe for success" class="fullW" src="assets/img/ONST_1617_4_HomepageRotators_78_DebPerelman_DesktopNEW.jpg" style="width: 100%;" />
+													<img alt="The Best Gifts Come From Your Heart. Or At Least From a Place Very Close to it." class="smallW" jpg="" src="assets/img/ONST_1617_4_HomepageRotators_78_DebPerelman_Mobile_NEW.jpg" />
+												</a>
+											</div>
+											<p>&nbsp;</p>
+											<div class="two_across_container">
+												<div class="two_across_item">
+													<div class="alumni_news" id="two_across_left">
+														<a href="http://magazine.gwu.edu/precious-mettle?utm_source=community_stories&amp;utm_medium=2nd_row_left&amp;utm_campaign=gwhomepage-flex-space&amp;utm_content=elana-myers" target="_blank">
+															<img alt="GW Alumna Elana Meyers Taylor, BS ‘06, MTA ‘11" src="assets/img/Elena_Myers_12.1.17_900x600.jpg" style="width: 100%;" />
+														</a>
+														<div class="news_section_caption">
+															<h3>
+																<a href="http://magazine.gwu.edu/precious-mettle?utm_source=community_stories&amp;utm_medium=2nd_row_left&amp;utm_campaign=gwhomepage-flex-space&amp;utm_content=elana-myers" target="_blank">Going for Gold</a>
+															</h3>
+															<p>Elana Meyers Taylor, BS &lsquo;06, MTA &lsquo;11, has her sights set on gold this February. This two-time Olympic medalist and GW alumna will be competing in the 2018 Winter Olympics for women&rsquo;s bobsledding.</p>
+														</div>
+													</div>
+												</div>
+												<div class="two_across_item">
+													<div class="student_news" id="two_across_right">
+														<a href="https://gwtoday.gwu.edu/grad2grad-program-offers-seniors-discount-gw-graduate-programs-0?utm_source=community_stories&amp;utm_medium=2nd_row_right&amp;utm_campaign=gwhomepage-flex-space&amp;utm_content=grad2grad" target="_blank">
+															<img alt="Grad2Grad: A special opportunity for GW seniors" src="assets/img/Grad2Grad-2_0-1_900x600.jpg" style="width: 100%;" />
+														</a>
+														<div class="news_section_caption">
+															<h3>
+																<a href="https://gwtoday.gwu.edu/grad2grad-program-offers-seniors-discount-gw-graduate-programs-0?utm_source=community_stories&amp;utm_medium=2nd_row_right&amp;utm_campaign=gwhomepage-flex-space&amp;utm_content=grad2grad" target="_blank">Grad2Grad Program Offers Discount on Graduate Programs</a>
+															</h3>
+															<p>Wilmar Bisnis Indonesia will continue its Grad2Grad Program for another year, offering a 10 percent tuition reduction to 2018 GW graduates who enroll in an eligible graduate program.</p>
+														</div>
+													</div>
+												</div>
+											</div>
+										</section>
+										<style type="text/css">.smallW{display:none;}
                                                                                                                                                                                                                                                                                                                                                                                                                 @media screen and (max-width:600px){
                                                                                                                                                                                                                                                                                                                                                                                                                 .fullW{display:none;}
                                                                                                                                                                                                                                                                                                                                                                                                                 .smallW{display:block;}
                                                                                                                                                                                                                                                                                                                                                                                                                 }
 </style>
-    </div>
-  </div>
-  </div>
-  
-  </div>
-
-
-<div class="panel-pane pane-node" >
-        
-
-<div class="general-content-no-sidebars">
-  <div class="general-content-grid-no-image">
-    <div id="general-content-primary">
-                        <p>&nbsp;</p>
-
-<div class="container" type="tpl-testimonial-light-right-aligned-image">
-<div class="row test-l-f">
-<div class="col-md-12 doodad">
-<hr /></div>
-</div>
-
-<div class="row">
-<div class="col-md-12">
-<article>
-<div class="test-r clearfix">
-<div class="test-img-right">
-<figure>
-<div class="media">
-<p class="i-wrap"><img alt="Jose Maria Salazar Rodriguez at the White House" class="t-img-responsive" src="assets/img/Jose_atWhiteHouse_sized.png" style="width: 358px; height: 358px;" /></p>
-</div>
-</figure>
-
-<div class="name-block light">
-<p class="name">Jose Maria Salazar Rodriguez</p>
-
-<p class="affi">GW Class of 2021<br />
-Columbian College of Arts &amp; Sciences</p>
-</div>
-</div>
-
-<div class="test-r-copy">
-<blockquote class="test-r-quote">
-<p class="quote"><span class="testimonial-light">&quot;Attending George Washington University has been such a blessing for me. I have been able to leave my dorm room, walk four blocks, and stand right in front of the White House. I&rsquo;ve seen multiple motorcades, experienced protests, and interacted with people from all walks of life all during my first semester of college.&quot;</span></p>
-</blockquote>
-</div>
-</div>
-</article>
-</div>
-</div>
-
-<div class="row test-l-u">
-<div class="col-md-12 doodad-not">
-<hr /></div>
-</div>
-<!-- endAfterNext: tpl-testimonial-light-right-aligned-image --></div>
-    </div>
-  </div>
-  </div>
-  
-  </div>
-</div>
-
-<div class="panel-pane pane-custom pane-2" >
-        <div class="segment" style="margin-bottom:20px;">
-<div class="photo-tile image1">&nbsp;</div>
-
-<p class="caption">&quot;And following tradition in my #bollywoodcinema course, my students strike a pose in classic Shahrukh Khan style, on the #lastday #lastclass I will miss these #fabulousstudents&quot; - @gwenglishprof</p>
-
-<div class="photo-tile image2">&nbsp;</div>
-
-<p class="caption">&quot;Made it to the capital for school #gwu #Washingtondc&quot; - @alaniib</p>
-
-<div class="photo-tile image3">&nbsp;</div>
-
-<p class="caption">&quot;Winter 2018 - @nickel_anddime&quot;</p>
-
-<div class="photo-tile image4">&nbsp;</div>
-
-<p class="caption">&quot;After a lovely vacation, I am back!!&quot; - @alejandrak.leon&#39;</p>
-
-<div class="second_row">
-<div class="photo-tile image5">&nbsp;</div>
-
-<p class="caption">Welcome, President LeBlanc!</p>
-
-<div class="photo-tile image6">&nbsp;</div>
-
-<p class="caption">Welcome, President LeBlanc!</p>
-
-<div class="photo-tile image7">&nbsp;</div>
-
-<p class="caption">Welcome, President LeBlanc!</p>
-
-<div class="photo-tile image8">&nbsp;</div>
-
-<p class="caption">Welcome, President LeBlanc!</p>
-</div>
-</div>
-<style type="text/css">.segment {text-align: center;} 
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="panel-pane pane-node" >
+							<div class="general-content-no-sidebars">
+								<div class="general-content-grid-no-image">
+									<div id="general-content-primary">
+										<p>&nbsp;</p>
+										<div class="container" type="tpl-testimonial-light-right-aligned-image">
+											<div class="row test-l-f">
+												<div class="col-md-12 doodad">
+													<hr />
+												</div>
+											</div>
+											<div class="row">
+												<div class="col-md-12">
+													<article>
+														<div class="test-r clearfix">
+															<div class="test-img-right">
+																<figure>
+																	<div class="media">
+																		<p class="i-wrap">
+																			<img alt="Jose Maria Salazar Rodriguez at the White House" class="t-img-responsive" src="assets/img/Jose_atWhiteHouse_sized.png" style="width: 358px; height: 358px;" />
+																		</p>
+																	</div>
+																</figure>
+																<div class="name-block light">
+																	<p class="name">Jose Maria Salazar Rodriguez</p>
+																	<p class="affi">GW Class of 2021
+																		<br />
+Columbian College of Arts &amp; Sciences
+																	</p>
+																</div>
+															</div>
+															<div class="test-r-copy">
+																<blockquote class="test-r-quote">
+																	<p class="quote">
+																		<span class="testimonial-light">&quot;Attending George Washington University has been such a blessing for me. I have been able to leave my dorm room, walk four blocks, and stand right in front of the White House. I&rsquo;ve seen multiple motorcades, experienced protests, and interacted with people from all walks of life all during my first semester of college.&quot;</span>
+																	</p>
+																</blockquote>
+															</div>
+														</div>
+													</article>
+												</div>
+											</div>
+											<div class="row test-l-u">
+												<div class="col-md-12 doodad-not">
+													<hr />
+												</div>
+											</div>
+											<!-- endAfterNext: tpl-testimonial-light-right-aligned-image -->
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="panel-pane pane-custom pane-2" >
+						<div class="segment" style="margin-bottom:20px;">
+							<div class="photo-tile image1">&nbsp;</div>
+							<p class="caption">&quot;And following tradition in my #bollywoodcinema course, my students strike a pose in classic Shahrukh Khan style, on the #lastday #lastclass I will miss these #fabulousstudents&quot; - @gwenglishprof</p>
+							<div class="photo-tile image2">&nbsp;</div>
+							<p class="caption">&quot;Made it to the capital for school #gwu #Washingtondc&quot; - @alaniib</p>
+							<div class="photo-tile image3">&nbsp;</div>
+							<p class="caption">&quot;Winter 2018 - @nickel_anddime&quot;</p>
+							<div class="photo-tile image4">&nbsp;</div>
+							<p class="caption">&quot;After a lovely vacation, I am back!!&quot; - @alejandrak.leon&#39;</p>
+							<div class="second_row">
+								<div class="photo-tile image5">&nbsp;</div>
+								<p class="caption">Welcome, President LeBlanc!</p>
+								<div class="photo-tile image6">&nbsp;</div>
+								<p class="caption">Welcome, President LeBlanc!</p>
+								<div class="photo-tile image7">&nbsp;</div>
+								<p class="caption">Welcome, President LeBlanc!</p>
+								<div class="photo-tile image8">&nbsp;</div>
+								<p class="caption">Welcome, President LeBlanc!</p>
+							</div>
+						</div>
+						<style type="text/css">.segment {text-align: center;} 
                                                                                                                                                                                                 
                                                                                                                                                                                                 .photo-tile {
                                                                                                                                                                                                     display: inline-block;
@@ -566,22 +564,17 @@ Columbian College of Arts &amp; Sciences</p>
                                                                                                                                                                                                 
                                                                                                                                                                                                 }
 </style>
-  
-  </div>
-
-
-<div class="panel-pane pane-custom pane-4" >
-        <p style="display:none;">&nbsp;</p>
-<style type="text/css">
+					</div>
+					<div class="panel-pane pane-custom pane-4" >
+						<p style="display:none;">&nbsp;</p>
+						<style type="text/css">
     .homepageHR {background-color: #033C5A;margin-left:calc(-50vw + 50%);margin-right:calc(-50vw + 50%);margin-top:50px;border: 1px solid #033C5A}
         .homepageH2 {border-top:5px solid #033C5A;margin-top:-3px;color:#033C5A;display:inline-block;padding-top:5px;margin-bottom:50px; font-size: 1.3em;     font-family: 'Avenir Next LT W04 Bold'; text-rendering: optimizeLegibility;}
-</style>  
-  </div>
-
-
-<div class="panel-pane pane-custom pane-5" >
-        <p style="display:none;"> </p>
-<style type="text/css">html, body { 
+</style>
+					</div>
+					<div class="panel-pane pane-custom pane-5" >
+						<p style="display:none;"></p>
+						<style type="text/css">html, body { 
 			     padding: 0px; 
 			     margin: 0px; 
 			     width: auto; 
@@ -799,12 +792,9 @@ Columbian College of Arts &amp; Sciences</p>
 		          }
 }
 </style>
-  
-  </div>
-
-
-<div class="panel-pane pane-custom pane-6" >
-        <style>  ul.quicktabs-tabs li {
+					</div>
+					<div class="panel-pane pane-custom pane-6" >
+						<style>  ul.quicktabs-tabs li {
 display:inline;
 background:none;
 list-style-type:none;
@@ -1061,13 +1051,10 @@ hr.event-detail-sidebar-rule {
 	display: block;
 }
 </style>
-  
-  </div>
-
-
-<div class="panel-pane pane-custom pane-7" >
-        <p style="display:none;"> </p>
-<style type="text/css">/* Main styles */
+					</div>
+					<div class="panel-pane pane-custom pane-7" >
+						<p style="display:none;"></p>
+						<style type="text/css">/* Main styles */
 .gwTodayContainer {
   margin-left:calc(-50vw + 50%);
   margin-right: calc(-50vw + 50%);
@@ -1234,15 +1221,15 @@ line-height: 1.4em;
 }
 }
 </style>
-<style type="text/css">.gwtheader_left {
+						<style type="text/css">.gwtheader_left {
     width: 100%;
     margin-top: -30px;
 
 }
-</style>  
-  </div>
-</div>
-        </div>
-    </div>
-</div>
+</style>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
 </div>
