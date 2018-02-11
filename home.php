@@ -194,26 +194,6 @@ margin-bottom: 100px;
 												<span class="liberator-statement-liberatorheavy-72">change the course of history.</span>
 											</p>
 										</div>
-										<div class="holder">
-											<div id="cf">
-												<a href="https://programs.gwu.edu/" target="_blank">
-													<img alt="find a program" aria-hidden="true" class="bottom" src="https://www2.gwu.edu/~newsctr/main_site_assets/homepage_buttons/352x340_Program_Hover_v2.png" />
-													<img alt="find a program" class="top" src="https://www2.gwu.edu/~newsctr/main_site_assets/homepage_buttons/352x340-Program.png" />
-												</a>
-											</div>
-											<div id="cf">
-												<a href="node/43">
-													<img alt="find a program" aria-hidden="true" class="bottom" src="https://www2.gwu.edu/~newsctr/main_site_assets/homepage_buttons/352x340_Visit_hover.png" />
-													<img alt="Visit campus" class="top" src="https://www2.gwu.edu/~newsctr/main_site_assets/homepage_buttons/352x340-Visit.png" />
-												</a>
-											</div>
-											<div id="cf">
-												<a href="node/15">
-													<img alt="Apply" aria-hidden="true" class="bottom" src="https://www2.gwu.edu/~newsctr/main_site_assets/homepage_buttons/352x340_Apply_Hover_v2.png" />
-													<img alt="apply" class="top" src="https://www2.gwu.edu/~newsctr/main_site_assets/homepage_buttons/352x340-Apply_v2.png" />
-												</a>
-											</div>
-										</div>
 									</div>
 								</div>
 							</div>
@@ -223,7 +203,7 @@ margin-bottom: 100px;
 								<div class="general-content-grid-no-image">
 									<div id="general-content-primary">
 										<hr class="homepageHR" />
-										<h2 class="homepageH2">STUDENT LIFE AT GW</h2>
+										<h2 class="homepageH2">BERITA DAN PENGUMUMAN</h2>
 										<div class="container" type="tpl-left-aligned-image-with-non-wrapping-text">
 											<div class="row">
 												<div class="col-md-12">
@@ -236,27 +216,17 @@ margin-bottom: 100px;
 																<figure>
 																	<div class="media">
 																		<p class="col-image">
-																			<img alt="GW Students Robin Eberhardt and Lillianna Byington" src="assets/img/Robin-and-Lillianna-1080x720.jpg" style="width: 100%;" />
+																			<img alt="" src="assets/img/fest.jpg" style="width: 100%;" />
 																		</p>
-																		<p>&nbsp;</p>
+																		
 																	</div>
-																	<figcaption class="t-img-caption">
-																		<p>&nbsp;</p>
-																	</figcaption>
+																	
 																</figure>
 															</div>
 															<div class="lai-copy lai-three">
 																<h3>Classroom Meets Career Goals</h3>
 																<p>Students Lillianna Byington, BA &rsquo;18, and Robin Eberhardt, BA &rsquo;17 saw their hard work pay off when a classroom assignment led to their story being published on the front page of The Washington Post. Tasked with investigating federal money forfeited back to the Department of Housing and Urban Development, they not only made discoveries regarding DC&rsquo;s housing department, but also cemented their commitment to journalism. Lillianna and Robin found their story at GW. Apply today to find yours.</p>
-																<p class="rtecenter">
-																	<span class="reg-button lightblue">
-																		<a href="/admissions-aid">Find Your GW Story</a>
-																	</span>
-																	<a href="/academics">
-																		<span class="reg-button lightblue"></span>
-																	</a>
-																</p>
-																<p>&nbsp;</p>
+																
 															</div>
 														</div>
 													</article>

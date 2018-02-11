@@ -43,6 +43,7 @@
 <script src="assets/js/meanmenu.js"></script>
 <script src="assets/js/sticky_nav.js"></script>
 <script src="assets/js/setting.js"></script>
+ 
  <!--[if lt IE 9]>
     <script src="assets/js/html5-respond.js"></script>
     <![endif]-->
@@ -84,7 +85,10 @@
 	<div class="field field-name-field-logo field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="assets/img/logo.png" width="100" height="75" alt="Wilmar Bisnis Indonesia logo" /></div></div></div></a>
   </div>
     <div class="call-to-action">
-    <a id="header-call-to-action" class="cap-button" href="http://wbi.vtekno.com/admissions-aid" title="Apply" target="_self">Apply</a>  </div>
+    <!--<a id="header-call-to-action" class="cap-button" href="http://wbi.vtekno.com/admissions-aid" title="Apply" target="_self">Apply</a>  </div>
+  --><p class="rtecenter">
+												<span class="liberator-statement-liberatorheavy-72">change the course of history.</span>
+											</p>
   </div>
   </div>
     </div>
@@ -117,7 +121,8 @@
 <div title="Submit Search" class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-FAMa6I59RTd26qa7R0NiVNVnJ4s-EYFuu9xE1791sjY" />
 <input type="hidden" name="form_id" value="google_appliance_block_form" />
   
-</div></form></div>
+</div>
+</form></div>
       </div>
       </div>
 
@@ -125,46 +130,91 @@
       <nav id="main-nav">
         <ul class="nice-menu nice-menu-down nice-menu-menu-division-menu" id="nice-menu">
 			
-			<li class="menu__item menu menuparent  menu-path-node first odd "><a href="/about" class="menu__link">About</a>
+			<li class="menu__item menu menuparent  menu-path-node first odd "><a href="/about" class="menu__link">Tentang Kami</a>
+				<ul>
+					<li class="menu__item menu menu-path-node first odd "><a href="/leadership" class="menu__link">Tentang WBI</a>
+						<ul>
+							<li class="menu__item menu menu-path-node first is-collapsed "><a href="/leadership" class="menu__link">Salam Dari Direktur</a></li>
+							<li class="menu__item menu menu-path-node even last"><a href="/our-priorities" class="menu__link">Sejarah</a></li>
+							<li class="menu__item menu menu-path-node even last"><a href="/our-priorities" class="menu__link">Visi, Misi dan Tujuan</a></li>
+							<li class="menu__item menu menu-path-node even last"><a href="/our-priorities" class="menu__link">Nilai-nilai Inti</a></li>
+						</ul>
+					</li>
+			<li class="menu__item menu menu-path-node first odd "><a href="/leadership" class="menu__link">Unit Pendukung</a>
+						<ul>
+							<li class="menu__item menu menu-path-node first is-collapsed "><a href="/leadership" class="menu__link">Perpustakaan</a></li>
+							<li class="menu__item menu menu-path-node even last"><a href="/our-priorities" class="menu__link">Administrasi Akademik</a></li>
+							<li class="menu__item menu menu-path-node even last"><a href="/our-priorities" class="menu__link">Administrasi Kepegawaian</a></li>
+							<li class="menu__item menu menu-path-node even last"><a href="/our-priorities" class="menu__link">Administrasi Umum</a></li>
+							<li class="menu__item menu menu-path-node even last"><a href="/our-priorities" class="menu__link">Teknologi Informasi</a></li>
+							<li class="menu__item menu menu-path-node even last"><a href="/our-priorities" class="menu__link">Laboratorium</a></li>
+							<li class="menu__item menu menu-path-node even last"><a href="/our-priorities" class="menu__link">LPPM</a></li>
+							<li class="menu__item menu menu-path-node even last"><a href="/our-priorities" class="menu__link">SPMI</a></li>
+							<li class="menu__item menu menu-path-node even last"><a href="/our-priorities" class="menu__link">SPI</a></li>
+						</ul>
+					</li>					
+					<li class="menu__item menu menu-path-node even last"><a href="/our-priorities" class="menu__link">Proses Pendidikan WBI</a></li>
+				</ul>
+			</li>
+		<li class="menu__item menu menuparent  menu-path-node even last"><a href="/gw-experience" class="menu__link">Program Studi</a>
 		<ul>
-			<li class="menu__item menu menu-path-node first odd "><a href="/leadership" class="menu__link">Leadership</a>
-		<ul>
-			<li class="menu__item menu menu-path-node first is-collapsed "><a href="/leadership" class="menu__link">Leadership</a></li>
-			<li class="menu__item menu menu-path-node even last"><a href="/our-priorities" class="menu__link">Our Priorities</a></li>
+			<li class="menu__item menu-812 menu-path-node-32 first odd "><a href="/campus-life" class="menu__link">Sarjana Terapan Akuntansi Perpajakan</a></li>
+			<li class="menu__item menu menu-path-node even "><a href="/traditions" class="menu__link">Sarjana Terapan Manajemen Pemasaran Internasional</a></li>
+			<li class="menu__item menu menu-path-node odd "><a href="/internships" class="menu__link">Sarjana Terapan Agribisnis Hortikultura</a></li>
+			<li class="menu__item menu menu-path-node even "><a href="/athletics-recreation" class="menu__link">Sarjana Terapan Pengelolahan Konvensi dan Acara</a></li>
 		</ul>
-</li>		
-		<li class="menu__item menu menu-path-node even last"><a href="/our-priorities" class="menu__link">Our Priorities</a></li>
-		</ul>
+		</li>
+		<li class="menu__item menu menuparent  menu-path-node first odd "><a href="/about" class="menu__link">Survey WBI</a>
+		<li class="menu__item menu menuparent  menu-path-node first odd "><a href="/about" class="menu__link">Layanan umum</a>
+				<ul>
+					<li class="menu__item menu menu-path-node first odd "><a href="/leadership" class="menu__link">Pelatihan Gratis</a>
+						<ul>
+							<li class="menu__item menu menu-path-node first is-collapsed "><a href="/leadership" class="menu__link">Jadwal</a></li>
+							<li class="menu__item menu menu-path-node even last"><a href="/our-priorities" class="menu__link">Pelatihan Hidroponik</a></li>
+							<li class="menu__item menu menu-path-node even last"><a href="/our-priorities" class="menu__link">Pelatihan 3D Printing</a></li>
+							<li class="menu__item menu menu-path-node even last"><a href="/our-priorities" class="menu__link">Pelatihan Bahasa Inggris</a></li>
+							<li class="menu__item menu menu-path-node even last"><a href="/our-priorities" class="menu__link">Pelatihan Kewirausahaan</a></li>
+						</ul>
+					</li>
+			<li class="menu__item menu menu-path-node first odd "><a href="/leadership" class="menu__link">Try Out</a>
+						<ul>
+							<li class="menu__item menu menu-path-node first is-collapsed "><a href="/leadership" class="menu__link">Jadwal</a></li>
+							<li class="menu__item menu menu-path-node first is-collapsed "><a href="/leadership" class="menu__link">Tryout</a></li>
+						</ul>
+					</li>					
+				</ul>
+			</li>
+	
+	
+	
+	<li class="menu__item menu menuparent  menu-path-node first odd "><a href="/about" class="menu__link">Calon Mahasiswa</a>
+				<ul>
+					<li class="menu__item menu menu-path-node first odd "><a href="/leadership" class="menu__link">Tentang WBI</a>
+						<ul>
+							<li class="menu__item menu menu-path-node first is-collapsed "><a href="/leadership" class="menu__link">Salam Dari Direktur</a></li>
+							<li class="menu__item menu menu-path-node even last"><a href="/our-priorities" class="menu__link">Sejarah</a></li>
+							<li class="menu__item menu menu-path-node even last"><a href="/our-priorities" class="menu__link">Visi, Misi dan Tujuan</a></li>
+							<li class="menu__item menu menu-path-node even last"><a href="/our-priorities" class="menu__link">Nilai-nilai Inti</a></li>
+						</ul>
+					</li>
+			<li class="menu__item menu menu-path-node first odd "><a href="/leadership" class="menu__link">Unit Pendukung</a>
+						<ul>
+							<li class="menu__item menu menu-path-node first is-collapsed "><a href="/leadership" class="menu__link">Perpustakaan</a></li>
+							<li class="menu__item menu menu-path-node even last"><a href="/our-priorities" class="menu__link">Administrasi Akademik</a></li>
+							<li class="menu__item menu menu-path-node even last"><a href="/our-priorities" class="menu__link">Administrasi Kepegawaian</a></li>
+							<li class="menu__item menu menu-path-node even last"><a href="/our-priorities" class="menu__link">Administrasi Umum</a></li>
+							<li class="menu__item menu menu-path-node even last"><a href="/our-priorities" class="menu__link">Teknologi Informasi</a></li>
+							<li class="menu__item menu menu-path-node even last"><a href="/our-priorities" class="menu__link">Laboratorium</a></li>
+							<li class="menu__item menu menu-path-node even last"><a href="/our-priorities" class="menu__link">LPPM</a></li>
+							<li class="menu__item menu menu-path-node even last"><a href="/our-priorities" class="menu__link">SPMI</a></li>
+							<li class="menu__item menu menu-path-node even last"><a href="/our-priorities" class="menu__link">SPI</a></li>
+						</ul>
+					</li>					
+					<li class="menu__item menu menu-path-node even last"><a href="/our-priorities" class="menu__link">Proses Pendidikan WBI</a></li>
+				</ul>
 			</li>
 			
-		<li class="menu__item menu menuparent  menu-path-node even"><a href="/our-location" class="menu__link">Our Location</a>
-		<ul>
-		<li class="menu__item menu-799 menu-path-node-17 first odd "><a href="/foggy-bottom-campus" class="menu__link">Foggy Bottom Campus</a></li>
-		<li class="menu__item menu menu-path-node even "><a href="/mount-vernon-campus" class="menu__link">Mount Vernon Campus</a></li>
-		<li class="menu__item menu menu-path-node odd "><a href="/virginia-science-technology-campus" class="menu__link">Virginia Science &amp; Technology Campus</a></li>
-		<li class="menu__item menu menu-path-node  even last"><a href="/online-virginia-academic-centers" class="menu__link">Online &amp; Virginia Academic Centers</a></li>
-		</ul>
-		</li>
-
-		<li class="menu__item menu menuparent  menu-path-node odd"><a href="/admissions-aid" class="menu__link">Admissions &amp; Aid</a><ul><li class="menu__item menu-803  menu-path-node-22 first odd "><a href="/undergraduate-admissions" class="menu__link">Undergraduate</a></li>
-		<li class="menu__item menu menu-path-node  even last"><a href="/graduate-admissions" class="menu__link">Graduate</a></li>
-		</ul>
-		</li>
-		
-		<li class="menu__item menu menuparent  menu-path-node even"><a href="/academics" class="menu__link">Academics</a><ul><li class="menu__item menu-807 menu-path-node-27 first odd "><a href="/schools-colleges" class="menu__link">Schools &amp; Colleges</a></li>
-		<li class="menu__item menu menu-path-node  even last"><a href="/academic-calendar" class="menu__link">Academic Calendar</a></li>
-	</ul>
-	</li>
-	
-	<li class="menu__item menu menuparent  menu-path-node odd"><a href="/research" class="menu__link">Research</a><ul><li class="menu__item menu-810 menu-path-node-31 first odd last"><a href="/research-resources" class="menu__link">Research Resources</a></li>
-	</ul></li>
-		<li class="menu__item menu menuparent  menu-path-node even last"><a href="/gw-experience" class="menu__link">GW Experience</a><ul><li class="menu__item menu-812 menu-path-node-32 first odd "><a href="/campus-life" class="menu__link">Campus Life</a></li>
-		<li class="menu__item menu menu-path-node even "><a href="/traditions" class="menu__link">Traditions</a></li>
-		<li class="menu__item menu menu-path-node odd "><a href="/internships" class="menu__link">Internships</a></li>
-		<li class="menu__item menu menu-path-node even "><a href="/athletics-recreation" class="menu__link">Athletics &amp; Recreation</a></li>
-		<li class="menu__item menu menu-path-node odd "><a href="/campus-health" class="menu__link">Campus Health</a></li>
-		<li class="menu__item menu menu-path-node even last"><a href="/arts-culture" class="menu__link">Arts &amp; Culture</a></li>
-	</ul></li>
+	<li class="menu__item menu menuparent  menu-path-node first odd "><a href="/about" class="menu__link">e-Fest</a>
 	</ul>
       </nav>
     </div>
