@@ -12,7 +12,6 @@
 <meta name="description" content="GW is making history through our academics, research, service, more than 275,000 prominent alumni and our 10 schools &amp; colleges. We offer comprehensive programs of undergraduate and graduate liberal arts study as well as degree programs in medicine, law, engineering, education, business, arts, international affairs, public affairs, nursing, public policy." />
 <meta name="keywords" content="George washington university, gwu, gw, gw university, george washington, dc universities, dc colleges, education, higher education" />
 <meta name="robots" content="follow, index" />
-<meta name="generator" content="Drupal 7 (http://drupal.org)" />
 <link rel="image_src" href="http://www.gwu.edu/sites/www.gwu.edu/files/image/gw-primary_90x90.jpg" />
 <link rel="canonical" href="http://wbi.vtekno.com/" />
 <link rel="shortlink" href="http://wbi.vtekno.com/" />
@@ -29,6 +28,7 @@
     <meta name="viewport" content="width=device-width">
     <!--[if IEMobile]><meta http-equiv="cleartype" content="on"><![endif]-->
 
+  <link type="text/css" rel="stylesheet" href="assets/css/gaya.css" media="all" />
   <link type="text/css" rel="stylesheet" href="assets/css/navbar.css" media="all" />
 <link type="text/css" rel="stylesheet" href="assets/css/ui.css" media="all" />
 <link type="text/css" rel="stylesheet" href="assets/css/animated.css" media="all" />
@@ -199,7 +199,7 @@
 </div>
 <div id="header-wrapper">
   <div class="gwlogo">
-    <a href="http://wbi.vtekno.com" title="Wilmar Bisnis Indonesia " target="_self"><div class="field field-name-field-logo field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="assets/img/gw_monogram_2c_process.gif" width="100" height="75" alt="Wilmar Bisnis Indonesia logo" /></div></div></div></a>
+    <a href="http://wbi.vtekno.com" title="Wilmar Bisnis Indonesia " target="_self"><div class="field field-name-field-logo field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="assets/img/logo.png" width="100" height="75" alt="Wilmar Bisnis Indonesia logo" /></div></div></div></a>
   </div>
     <div class="call-to-action">
     <a id="header-call-to-action" class="cap-button" href="http://wbi.vtekno.com/admissions-aid" title="Apply" target="_self">Apply</a>  </div>

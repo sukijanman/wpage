@@ -13,10 +13,10 @@
         <div class="fullHeroWrapper">
 
 <div class="panel-pane pane-custom pane-1" >
-        <div class="video-container fullW">
+<!--<div class="video-container fullW">
     <iframe allowfullscreen="" class="background-video" frameborder="0" height="394" mozallowfullscreen="" src="https://player.vimeo.com/video/180725975?background=1" title="GW is a community of leaders, innovators, explorers, dreamers, teammates, cultivators, heroes, and champions"
     webkitallowfullscreen="" width="700"></iframe>
-</div>
+</div>-->
 
 <div class="smallW">
 <div class="css-slideshow">
